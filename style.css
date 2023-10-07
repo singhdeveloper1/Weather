@@ -106,13 +106,13 @@ body{
 display: flex;
 align-items: center;
 margin-left: 25px;
-margin-right: 15px;
+margin-right: 12px;
 }
 .wind{
 display: flex;
 align-items: center;
 margin-right: 25px;
-margin-left: 25px;
+margin-left: 12px;
 }
 
 .weather-details i{
