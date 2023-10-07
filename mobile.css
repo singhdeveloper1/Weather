@@ -1,0 +1,59 @@
+@media only screen and (max-width: 568px){
+    .container{
+        width: 100%;
+        padding: 15px;
+    }
+
+    .weather-body img{
+        width: 50%;
+
+    }
+   
+
+    /* .weather-details .text{
+        margin-left: 2px;
+        font-size: 5px;
+    } */
+
+    .wind{
+        display: flex;
+        align-items: center;
+        margin-right: 8px;
+        margin-left: 0px;
+        }
+
+        .humidity{
+            display: flex;
+            align-items: center;
+            /* justify-content: center; */
+            margin-left: 8px;
+            margin-right: 0px;
+            
+            }
+
+            .weather-details i{
+                font-size: 20px;
+            }
+            .weather-details .text{
+                margin-left: 10px;
+                font-size: 20px;
+            }
+
+            .text span{
+                font-size: 25px;
+                font-weight: lighter;
+                
+            }
+        
+
+            .location-not-found img{
+               
+                margin-top: 15px;
+                
+            
+            }
+        
+        
+   
+
+}
